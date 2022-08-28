@@ -1,0 +1,15 @@
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/bin/Debug/net6.0/secondseminar
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/bin/Debug/net6.0/secondseminar.deps.json
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/bin/Debug/net6.0/secondseminar.runtimeconfig.json
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/bin/Debug/net6.0/secondseminar.dll
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/bin/Debug/net6.0/ref/secondseminar.dll
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/bin/Debug/net6.0/secondseminar.pdb
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/secondseminar.csproj.AssemblyReference.cache
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/secondseminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/secondseminar.AssemblyInfoInputs.cache
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/secondseminar.AssemblyInfo.cs
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/secondseminar.csproj.CoreCompileInputs.cache
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/secondseminar.dll
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/ref/secondseminar.dll
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/secondseminar.pdb
+/Users/aleksejzabegalov/Documents/Учеба/CSseminars/secondseminar/obj/Debug/net6.0/secondseminar.genruntimeconfig.cache
